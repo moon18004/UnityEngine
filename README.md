@@ -2,8 +2,6 @@
 
 This is a simple 3D RPG game made with C# and Unity. There are objects such as houses, wells, and fences in the map. A character can be controlled. We can move the character freely on the map.  
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
 [Software Demo Video](https://www.youtube.com/watch?v=TNSnM919Jio)
 
 # Development Environment
