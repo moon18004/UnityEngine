@@ -4,7 +4,7 @@ This is a simple 3D RPG game made with C# and Unity. There are objects such as h
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
 
-[Software Demo Video](https://youtu.be/eTHnVfnUtqM)
+[Software Demo Video](https://www.youtube.com/watch?v=TNSnM919Jio)
 
 # Development Environment
 
